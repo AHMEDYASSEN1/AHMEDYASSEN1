@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ use react in my projects || next.js<br>📚 I'm currently working on my skills <be> 💬 Ask me about react <br>🎯 Goals: Full stack web developer.<br>📪 How to reach me: www.linkedin.com/in/ahmed-yassen-8a4b18226</p>
+<p align="left">✨ use react in my projects || next.js<br>📚 I'm currently working on my skills <br> 💬 Ask me about react <br>🎯 Goals: Full stack web developer.<br>📪 How to reach me: www.linkedin.com/in/ahmed-yassen-8a4b18226</p>
 
 ###
 
