@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ use react in my projects || next.js<br>📚 I'm currently working on my skills <br> 💬 Ask me about react <br>🎯 Goals: Full stack web developer.<br>📪 How to reach me: www.linkedin.com/in/ahmed-yassen-8a4b18226</p>
+<p align="left">✨ use react in my projects || next.js<br>📚 I'm currently working on my skills <br> 💬 Ask me about Web development || React.js <br>🎯 Goals: Full stack web developer.<br>📪 How to reach me: www.linkedin.com/in/ahmed-yassen-8a4b18226</p>
 
 ###
 
@@ -36,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
 ###
