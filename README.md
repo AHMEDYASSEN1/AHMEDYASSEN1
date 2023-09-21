@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmed and I'm a Front End Developer and I love what i do.</p>
+<p align="left">My name is Ahmed, I'm a Front End Developer and I love what i do.</p>
 
 ###
 
