@@ -19,24 +19,16 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My
+Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My
+Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My
+Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My
+Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) <br />
+
 </div>
 
 ###
